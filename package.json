@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@mobily/ts-belt": "^3.13.1"
+  }
+}
